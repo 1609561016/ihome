@@ -1,5 +1,5 @@
 num = 1
-num3 = 2
+num3 = 6
 
 num1 = 5
 
